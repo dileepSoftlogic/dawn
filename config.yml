@@ -1,0 +1,13 @@
+development:
+  password: shptka_db9d1d259ae386b1600700fe6d9134b1
+  theme_id: "124072034357"
+  store: testdevsoftlogic.myshopify.com
+  ignore_files:
+  - .gitignore
+  - .git/*
+  - .git/*need
+  - node_modules/*collection-template
+  - package.json
+  - webpack.mix.js
+  - package-lock.json
+  - mix-manifest.json
